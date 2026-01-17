@@ -29,7 +29,7 @@ Order Delivery Analysis Dashboard
 - East region has the highest delayed orders
 - Revenue is highest in South and North regions
 - SKU108 contributes maximum revenue
-🔹 Conclusion
+
 ## Conclusion
 This dashboard enables stakeholders to quickly identify delivery bottlenecks
 and improve logistics performance using data-driven insights.
