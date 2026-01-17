@@ -1,5 +1,5 @@
 Order Delivery Analysis Dashboard
-🔹 Tools & Technologies
+
 
 ## Tools Used
 - SQL (MySQL / SQL Server)
