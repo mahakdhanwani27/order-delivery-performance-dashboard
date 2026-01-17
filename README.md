@@ -34,7 +34,6 @@ Order Delivery Analysis Dashboard
 This dashboard enables stakeholders to quickly identify delivery bottlenecks
 and improve logistics performance using data-driven insights.
 
-🧾 4️⃣ SQL FILE CONTENT (IMPORTANT)
 Inside order_delivery_queries.sql:
 
 sql
